@@ -23,7 +23,6 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    box-shadow: 8px 8px 10px rgba(0, 0, 0, .6);
     padding: 20px;
 }
 
